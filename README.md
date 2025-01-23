@@ -26,4 +26,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/Fredrick-123/Fredrick-123/output/github-snake.svg" />
 </picture>
 
+![Data Coding GIF by StickerGiant](https://github.com/user-attachments/assets/18f36f3d-e222-4564-b305-7813b3f4a5fb)
 
