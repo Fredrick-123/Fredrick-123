@@ -1,4 +1,4 @@
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzU4NWp6bWRyaHhpY2U2dDYzNmMxYWptb3FsMDFkdDRsemV2d2p0aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/okZ8eqHMUPDdLEAIkf/giphy.gif
+
 
 # 💫 About Me:
 <b>Hello, nice to meet you! My name is Fredrick, and I am a software engineer. 👋 </b>
