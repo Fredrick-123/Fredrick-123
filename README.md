@@ -6,6 +6,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FredrickNicholas) 
+
 ![Data Coding GIF by StickerGiant](https://github.com/user-attachments/assets/18f36f3d-e222-4564-b305-7813b3f4a5fb) 
 
 # 💻 Tech Stack:
